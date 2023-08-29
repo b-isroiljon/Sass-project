@@ -6,4 +6,4 @@
 >- CSS
 >- Sass
 ---
-### *[To watch click here!](https://b-isroiljon.github.io/connect-portfolio-page/)*
+### *[To watch click here!](https://b-isroiljon.github.io/Sass-project/)*
