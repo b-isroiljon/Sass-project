@@ -6,4 +6,4 @@
 >- CSS
 >- Sass
 ---
-### *[To watch click here!](https://b-isroiljon.github.io/Sass-project/ ./)*
+### *[To watch click here!](https://b-isroiljon.github.io/Sass-project/)*
