@@ -100,7 +100,8 @@ body {
   margin: 0 auto;
 }
 .home__image img {
-  width: 100px;
+  width: 200px;
+  border-radius: 30px;
 }
 .home__title {
   margin-top: 20px;
